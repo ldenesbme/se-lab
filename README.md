@@ -1,4 +1,4 @@
-# SE Spaceship - modosult
+# SE Spaceship - harmad fele keppen modosult dupla merge utan
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
